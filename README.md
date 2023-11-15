@@ -2,7 +2,7 @@
 
 参考基于paddlenlp的ernie3.0、基于pytorch的bert的单分类模型项目做了整合，实现了美妆评论数据的多分类模型训练、预测、测试。
 
-## 相关项目
+## 参考项目
 
 https://github.com/PaddlePaddle/PaddleNLP
 
